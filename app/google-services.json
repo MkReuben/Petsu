@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396617428371",
+    "firebase_url": "https://petsu-8bffb.firebaseio.com",
+    "project_id": "petsu-8bffb",
+    "storage_bucket": "petsu-8bffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396617428371:android:53f72cf322aafa34",
+        "android_client_info": {
+          "package_name": "com.example.petsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396617428371-hh68i6mkvuqjrirefub2q893vsfaqkkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petsu",
+            "certificate_hash": "b106b5d14d72976ceb61334d348810ff38bdf2d2"
+          }
+        },
+        {
+          "client_id": "396617428371-ga5kmpi388g5vuslmsn82cd6q0l4qanf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWoPo9HVk_Oqu80S5jVkSGg6Nyw-EW28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396617428371-ga5kmpi388g5vuslmsn82cd6q0l4qanf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
